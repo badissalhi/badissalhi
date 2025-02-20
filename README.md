@@ -40,51 +40,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D" alt="Ethereum Badge"></a>
 </p>
 
-<!-- Github Stats   -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BadisSalhi&theme=react" alt="GitHub Activity Graph">
-</p>
-<p align="center">
-  <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadisSalhi&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Top Languages">
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadisSalhi&&theme=algolia" alt="GitHub Streak">
-</p>
-
-<!-- Ligne  -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</div>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
-<!-- Ligne  -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</div>
-
-<p align="center">
-  <a href="https://github.com/BadisSalhi/PFA-Automatisation_Campagne_Sms-Email-FrontendReact">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadisSalhi&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react" alt="Frontend React Project">
-  </a>
-  <a href="https://github.com/BadisSalhi/PFA-Automatisation_Campagne_Sms-Email-BackendExpress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BadisSalhi&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react" alt="Backend Express Project">
-  </a>
-</p>
-
-<!-- Ligne  -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</div>
 
 <!-- Built with ❤️ by Badis Salhi -->
 <h2 align="center">Built with ❤️ by Badis Salhi</h2>
