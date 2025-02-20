@@ -9,14 +9,6 @@
 <p align="center"><b>About me</b></p>
 <p align="center">I'm Badis Salhi, a passionate frontend and backend developer.</p>
 
-<!-- Let's Connect..! -->
-<h2 align="center"><b>Let's Connect..!</b></h2>
-<p align="center">
-  <a href="mailto:contact.badissalhi@gmail.com">
-    <img src="https://img.shields.io/badge/-BadisSalhi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
-  </a>
-</p>
-
 <!-- Ligne  -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -44,5 +36,14 @@
 <p align="center">
   <a href="https://github.com/BadisSalhi">
     <img src="https://img.shields.io/badge/-BadisSalhi-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</p>
+
+
+<!-- Let's Connect..! -->
+<h2 align="center"><b>Let's Connect..!</b></h2>
+<p align="center">
+  <a href="mailto:contact.badissalhi@gmail.com">
+    <img src="https://img.shields.io/badge/-BadisSalhi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
 </p>
