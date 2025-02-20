@@ -11,7 +11,6 @@
 
 <!-- Let's Connect..! -->
 <h2 align="center"><b>Let's Connect..!</b></h2>
-
 <p align="center">
   <a href="mailto:contact.badissalhi@gmail.com">
     <img src="https://img.shields.io/badge/-BadisSalhi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
